@@ -32,6 +32,7 @@ Este projeto foi inspirado no vídeo [Como criar uma Pokedex com HTML, CSS e Jav
 
 ## 🌐 Acesse o projeto online
 
-Acesse o resultado deste projeto através do link [github.com/LuaSpecht/Pokedex](https://github.com/LuaSpecht/Pokedex)
+Acesse o resultado deste projeto através do link <a href="https://luaspecht.github.io/Pokedex/" target="_blank">github.com/LuaSpecht/Pokedex</a>.
+
 
 ![Preview da Pokédex](./src/images/preview.PNG)
