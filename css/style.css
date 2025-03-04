@@ -34,7 +34,7 @@ p {
   font-weight: 600;
   color: #aaa;
   font-size: clamp(8px, 5vw, 30px);
-  top: 54.5%;
+  top: 53%;
   right: 27%;
 }
 
@@ -64,7 +64,7 @@ form {
 
 .buttons {
   position: absolute;
-  bottom: 10%;
+  bottom: 15%;
   left: 50%;
   width: 65%;
   transform: translate(-57%, 0);
